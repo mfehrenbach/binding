@@ -26,3 +26,7 @@ p {
     color: var(--type-color);
     max-width: 50ch;
 }
+
+a p {
+    color: blue;
+}
