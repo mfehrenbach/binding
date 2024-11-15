@@ -10,3 +10,7 @@ body {
 	padding: var(--base-size);
 	font-size: var(--base-size);
 }
+
+.current-page {
+	background-color: gold;
+}
