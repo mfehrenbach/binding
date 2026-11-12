@@ -1,0 +1,9 @@
+:root {
+	--type-family: 'Helvetica';
+	--type-base: 1.25rem;
+	--type-title: calc(var(--type-base) * 3);
+
+	--color-foreground: white;
+	--color-background: firebrick;
+	--color-accent: lightcoral;
+}

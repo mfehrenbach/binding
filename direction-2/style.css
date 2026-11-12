@@ -1,0 +1,8 @@
+:root {
+	--type-family: 'Courier';
+	--type-title: calc(var(--type-base) * 3);
+
+	--color-foreground: color-mix(in srgb, black, transparent 20%);
+	--color-background: tan;
+	--color-accent: maroon;
+}

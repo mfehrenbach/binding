@@ -1,0 +1,9 @@
+:root {
+	--type-family: 'Hoefler Text';
+	--type-base: 1.25rem;
+	--type-title: calc(var(--type-base) * 2);
+
+	--color-foreground: white;
+	--color-background: black;
+	--color-accent: red;
+}
