@@ -1,5 +1,6 @@
 :root {
 	--type-base: 1rem;
+	--type-lines: 70ch;
 
 	--color-accent: deepskyblue;
 
@@ -19,6 +20,8 @@ body {
 }
 
 h1 { font-size: var(--type-title); }
+
+p { max-inline-size: var(--type-lines); }
 
 a {
 	color: var(--color-accent);
